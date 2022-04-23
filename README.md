@@ -10,7 +10,7 @@ Hello world
 - HTML
 - CSS
 
-# to use this project, just clone it into your pc by using the following steps:
+# To use this project, just clone it into your pc by using the following steps:
 - git clone (https://github.com/Lasten-Ernest/Hello-World/pull/1)
 - cd <Folder(Hello-World)
 - Open with Vscode if it is installed
