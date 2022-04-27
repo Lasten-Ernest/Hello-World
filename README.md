@@ -1,8 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-Hello world
+# Project Name:   Hello Microverse
+This project is about setting up linters in basic HTML and CSS files so as to run some tests on these files
 
 
 ## Built With
